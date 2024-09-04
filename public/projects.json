@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Terraventure - Custom Search Engine",
+      "description": "A custom search engine built using Django, utilizing Google Custom Search API for data and NLTK for keyword extraction. This project helped me learn Django and build a functional search engine named Terraventure.",
+      "techUsed": ["Django", "Python", "NLTK", "Google Custom Search API"],
+      "linkToProject": "https://github.com/Suryansh987/Search-Engine-Using-Django",
+      "projectImage": "/Search_Engine.jpg"
+    },
+    {
+      "title": "Todo App",
+      "description": "A simple Todo application created using HTML, CSS, and JavaScript. This project was focused on learning JavaScript and utilizing local storage to store the todos.",
+      "techUsed": ["HTML", "CSS", "JavaScript"],
+      "linkToProject": "https://github.com/Suryansh987/TODO-App",
+      "projectImage": "/Todo.jpg"
+    },
+    {
+      "title": "News App",
+      "description": "A news application built using ReactJS and News API. It features infinite scroll, sections like sports, and uses Context API for state management. This project was my introduction to React.",
+      "techUsed": ["ReactJS", "News API", "Context API"],
+      "linkToProject": "https://github.com/Suryansh987/newsapp",
+      "projectImage": "/News_App.jpg"
+    },
+    {
+      "title": "Person Detection",
+      "description": "An object detection project using Python and OpenCV. I created a custom dataset of 500 images from a video of my college campus, labeled the images, and trained the model over 50 epochs, achieving 85% accuracy.",
+      "techUsed": ["Python", "OpenCV", "Machine Learning"],
+      "linkToProject": "https://github.com/Suryansh987/Person-Detection",
+      "projectImage": "/Person.png"
+    },
+    {
+      "title": "I Notebook - Notes Keeping App",
+      "description": "A notes-keeping application built using the MERN stack. This project involved integrating a database and writing custom REST APIs for data operations. It was my first MERN stack project.",
+      "techUsed": ["MongoDB", "Express", "ReactJS", "NodeJS"],
+      "linkToProject": "https://github.com/Suryansh987/iNotebook-React",
+      "projectImage": "/INotebook.jpg"
+    },
+    {
+      "title": "Blog App",
+      "description": "A blog application created using the MERN stack, featuring authentication with Google login, Cloudinary for CDN and image storage, and a custom markdown feature for writing blogs with code snippets.",
+      "techUsed": ["MongoDB", "Express", "ReactJS", "NodeJS", "Cloudinary"],
+      "linkToProject": "https://github.com/Suryansh987/Blog_App",
+      "projectImage": "/Blog.jpg"
+    }
+  ]
+  
