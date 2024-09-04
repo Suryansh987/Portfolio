@@ -8,7 +8,7 @@ function Navbar() {
       <nav className="p-4 flex justify-between items-center">
         <div className="flex items-center">
           <Image 
-          src='./logo.png' 
+          src='https://res.cloudinary.com/dybwlpu9u/image/upload/v1725455966/Portfolio/xivarjegtncxp4r3ehaq.png' 
           alt="logo"
           width={50}
           height={50}
